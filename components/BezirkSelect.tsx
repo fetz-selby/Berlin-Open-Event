@@ -8,8 +8,6 @@ const BezirkSelect = () => {
   const bezirk = useStore((state) => state.bezirk);
   const setBezirk = useStore((state) => state.setBezirk);
 
-  console.log(`bezirks`, bezirks);
-
   const renderItems = useMemo(
     () =>
       bezirks.map((bezirk) => (
