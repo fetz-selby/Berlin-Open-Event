@@ -30,4 +30,7 @@ Design file is design.dio, and can be viewed with design.io
 
 - [ ] Add tests
 - [ ] Add more filters (Search by bezeichnung, strasse, betreiber, etc)
-- [ ] Add more details to the UI
+- [ ] Add more styling to the UI
+- [ ] Add more details to the UI (Opening hours, etc)
+- [ ] Add more data (Add more data from the API)
+- [ ] Implement pagination
