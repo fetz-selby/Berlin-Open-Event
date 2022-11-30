@@ -21,6 +21,10 @@ yarn dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
+## Design
+<img width="689" alt="Screenshot 2022-11-30 at 16 15 50" src="https://user-images.githubusercontent.com/6938921/204844971-43724843-7953-4cd2-b440-f661fca68cf3.png">
+
+
 ## TODO
 
 - [ ] Add tests
