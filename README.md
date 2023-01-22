@@ -19,7 +19,7 @@ npm run dev
 yarn dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [App](https://stirring-mochi-790a09.netlify.app/) with your browser to see the result.
 
 ## Design
 Design file is design.dio, and can be viewed with design.io
