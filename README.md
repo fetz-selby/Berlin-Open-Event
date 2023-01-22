@@ -1,6 +1,6 @@
 ## About
 
-This application helps you find block part around Berlin. It leverages on the open API
+This application helps you find block party around Berlin. It leverages on the open API
 from [daten.berlin.de](https://www.berlin.de/sen/web/service/maerkte-feste/wochen-troedelmaerkte/index.php/index/all.json?q=). This app has a simple and easy to use UI which provide filtering
 based on bezirk.
 
